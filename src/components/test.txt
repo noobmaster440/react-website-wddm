@@ -1,0 +1,71 @@
+
+const STYLES = ['btn--primary', 'btn--outline', 'btn--test'];
+
+const SIZES = ['btn--medium', 'btn--large'];
+
+const Button=({child,onClick,btnSize,btnStyle,type})=>{
+
+export const Button = ({
+  children,
+  type,
+  onClick,
+  buttonStyle,
+  buttonSize
+}) => {
+
+
+  MAKE CARDS (A COMPONENT FOR GRID ) AND RESUE IT BY PASSING VALUES
+
+
+  <section class="p-5">
+      <div class="container">
+        <div class="row text-center g-4">
+          <div class="col-md">
+            <div class="card bg-success text-light">
+              <div class="card-body text-center">
+                <div class="h1 mb-3">
+                  <i class="bi bi-laptop"></i>
+                </div>
+                <h3 class="card-title mb-3">Online</h3>
+                <p class="card-text">
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                  Iure, quas quidem possimus dolorum esse eligendi?
+                </p>
+                <a href="#" class="btn btn-outline-info">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="card bg-danger text-info">
+              <div class="card-body text-center">
+                <div class="h1 mb-3">
+                  <i class="bi bi-people"></i>
+                </div>
+                <h3 class="card-title mb-3">Classroom</h3>
+                <p class="card-text">
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                  Iure, quas quidem possimus dolorum esse eligendi?
+                </p>
+                <a href="#" class="btn btn-outline-dark">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="card bg-warning text-dark">
+              <div class="card-body text-center">
+                <div class="h1 mb-3">
+                  <i class="bi bi-person-square"></i>
+                </div>
+                <h3 class="card-title mb-3">Mixed / Hybrid</h3>
+                <p class="card-text">
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                  Iure, quas quidem possimus dolorum esse eligendi?
+                </p>
+                <a href="#" class="btn btn-outline-secondary">Read More</a>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </section>

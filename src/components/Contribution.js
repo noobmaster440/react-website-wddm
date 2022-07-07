@@ -5,7 +5,7 @@ import React from 'react'
 const Contribution = ({img,wayTo,howTo,duration,reward}) => {
   return (
     <div>
-        <Card style={{ width: '23rem' }}>
+        <Card style={{ width: '23rem',height:'20rem'}}>
         <Card.Img style={{width:'15rem'}} variant="top" src={img} />
         <Card.Body>
             <Card.Title>{wayTo}</Card.Title>

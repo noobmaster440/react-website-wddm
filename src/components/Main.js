@@ -1,6 +1,6 @@
 import React from 'react'
-import '../../index.css'
-import Button from '../Button'
+import '../index.css'
+import Button from './Button'
 const Main = () => {
   return (
     <div className='main-container'>
@@ -22,5 +22,4 @@ const Main = () => {
     </div>
   )
 }
-
 export default Main

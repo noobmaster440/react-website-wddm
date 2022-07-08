@@ -2,7 +2,8 @@ import React from 'react'
 import { Seed } from './Seed'
 import Contribution from '../Contribution'
 import '../../index.css'
-
+import Navbar from '../Navbar'
+import Footer from '../Footer'
 const Contributions = () => {
 
   const contributionCard=(contribution)=>{
@@ -17,13 +18,18 @@ const Contributions = () => {
     )
   }
   return (
-    <div className='gridsysoutline'>
-      <h3>Ways to Contribution</h3>
+    <>
+      <Navbar/>
+      <div className='gridsysoutline'>
+      <h3>Ways to Contribute in the BeeCause</h3>
+
       <div className='gridsys'>
         {Seed.map(contributionCard)}
       </div>
-   
-    </div>
+      </div>
+      <Footer/>
+    </>
+    
   )
 }
 

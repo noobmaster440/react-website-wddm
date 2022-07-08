@@ -1,12 +1,13 @@
 import {Card} from 'react-bootstrap';
 import { Button } from 'react-bootstrap';
 import React from 'react'
+import '../index.css'
 
 const Contribution = ({img,wayTo,howTo,duration,reward}) => {
   return (
     <div>
-        <Card style={{ width: '23rem',height:'20rem'}}>
-        <Card.Img style={{width:'15rem'}} variant="top" src={img} />
+        <Card className="cardcont" >
+        <Card.Img variant="top" src={img} />
         <Card.Body>
             <Card.Title>{wayTo}</Card.Title>
             <Card.Text>

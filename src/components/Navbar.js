@@ -18,7 +18,7 @@ const Navbar = () => {
         <>
           <nav className="navbar">
             <div className="navbar-container">
-              <Link to='/' className="navbar-logo">
+              <Link to='/react-website-wddm/' className="navbar-logo">
                 Kunco <i className="fab fa-typo3"/>
               </Link>
               <div className="menu-icon" onClick={handleClick}>
@@ -27,7 +27,7 @@ const Navbar = () => {
             </div>
             <ul className={click?'nav-menu active':'nav-menu'}>
               <li className="nav-item">
-                <Link to='/' className='nav-links' onClick={closeMenu}></Link>
+                <Link to='/aboutus' className='nav-links' onClick={closeMenu}></Link>
                 Home
               </li>
               <li className="nav-item">
@@ -35,15 +35,15 @@ const Navbar = () => {
                 About US
               </li>
               <li className="nav-item">
-                <Link to='/' className='nav-links' onClick={closeMenu}></Link>
+                <Link to='/contribution' className='nav-links' onClick={closeMenu}></Link>
                 Why Save Bees?
               </li>
               <li className="nav-item">
-                <Link to='/' className='nav-links' onClick={closeMenu}></Link>
+                <Link to='/aboutus' className='nav-links' onClick={closeMenu}></Link>
                 Contact
               </li> 
               <li>
-                <Link to='/' className="nav-links-sm" onClick={closeMenu}></Link>
+                <Link to='/contribution' className="nav-links-sm" onClick={closeMenu}></Link>
               </li>
             </ul>
             {button && <Button buttonStyle='btn--outline'>SIGN UP</Button>}

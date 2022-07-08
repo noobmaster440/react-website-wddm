@@ -8,7 +8,7 @@ const App=()=>{
     <>
       <Router>
         <Routes>
-          <Route path='/' element={<Home/>}/>
+          <Route path='/react-website-wddm/' element={<Home/>}/>
           <Route path='/aboutus' element={<AboutUs/>}/>
           <Route path='/contribution' element={<Contributions/>}/>
         </Routes>

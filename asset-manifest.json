@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.866112cc.css",
-    "main.js": "/static/js/main.1523ec0c.js",
-    "static/js/787.e1c43e5f.chunk.js": "/static/js/787.e1c43e5f.chunk.js",
-    "static/media/elissa-garcia-MV1l4f_f1os-unsplash.jpg": "/static/media/elissa-garcia-MV1l4f_f1os-unsplash.6a832e3c899304afb799.jpg",
-    "static/media/roman-synkevych-5wJ2GiYSifA-unsplash.jpg": "/static/media/roman-synkevych-5wJ2GiYSifA-unsplash.c6cb88a123b135f929cb.jpg",
-    "static/media/ocg-saving-the-ocean-xch7jXAaqqo-unsplash.jpg": "/static/media/ocg-saving-the-ocean-xch7jXAaqqo-unsplash.c748879d29de9d883b7a.jpg",
-    "static/media/ray-sangga-kusuma-7uSrOyY1U0I-unsplash.jpg": "/static/media/ray-sangga-kusuma-7uSrOyY1U0I-unsplash.265ebe8ff04bc6f4c444.jpg",
-    "static/media/blackieshoot-PoBHzWZMRGs-unsplash.jpg": "/static/media/blackieshoot-PoBHzWZMRGs-unsplash.dba1c43a528e39e49d15.jpg",
-    "static/media/ismael-paramo-Cns0h4ypRyA-unsplash.jpg": "/static/media/ismael-paramo-Cns0h4ypRyA-unsplash.46d1c79826b5f792a93c.jpg",
-    "static/media/img-home.jpg": "/static/media/img-home.ca8f9cdbd9bd9e629137.jpg",
-    "index.html": "/index.html",
-    "main.866112cc.css.map": "/static/css/main.866112cc.css.map",
-    "main.1523ec0c.js.map": "/static/js/main.1523ec0c.js.map",
-    "787.e1c43e5f.chunk.js.map": "/static/js/787.e1c43e5f.chunk.js.map"
+    "main.css": "/react-website-wddm/static/css/main.845e5791.css",
+    "main.js": "/react-website-wddm/static/js/main.96021f00.js",
+    "static/js/787.e1c43e5f.chunk.js": "/react-website-wddm/static/js/787.e1c43e5f.chunk.js",
+    "static/media/elissa-garcia-MV1l4f_f1os-unsplash.jpg": "/react-website-wddm/static/media/elissa-garcia-MV1l4f_f1os-unsplash.6a832e3c899304afb799.jpg",
+    "static/media/roman-synkevych-5wJ2GiYSifA-unsplash.jpg": "/react-website-wddm/static/media/roman-synkevych-5wJ2GiYSifA-unsplash.c6cb88a123b135f929cb.jpg",
+    "static/media/ocg-saving-the-ocean-xch7jXAaqqo-unsplash.jpg": "/react-website-wddm/static/media/ocg-saving-the-ocean-xch7jXAaqqo-unsplash.c748879d29de9d883b7a.jpg",
+    "static/media/ray-sangga-kusuma-7uSrOyY1U0I-unsplash.jpg": "/react-website-wddm/static/media/ray-sangga-kusuma-7uSrOyY1U0I-unsplash.265ebe8ff04bc6f4c444.jpg",
+    "static/media/blackieshoot-PoBHzWZMRGs-unsplash.jpg": "/react-website-wddm/static/media/blackieshoot-PoBHzWZMRGs-unsplash.dba1c43a528e39e49d15.jpg",
+    "static/media/ismael-paramo-Cns0h4ypRyA-unsplash.jpg": "/react-website-wddm/static/media/ismael-paramo-Cns0h4ypRyA-unsplash.46d1c79826b5f792a93c.jpg",
+    "static/media/img-home.jpg": "/react-website-wddm/static/media/img-home.ca8f9cdbd9bd9e629137.jpg",
+    "index.html": "/react-website-wddm/index.html",
+    "main.845e5791.css.map": "/react-website-wddm/static/css/main.845e5791.css.map",
+    "main.96021f00.js.map": "/react-website-wddm/static/js/main.96021f00.js.map",
+    "787.e1c43e5f.chunk.js.map": "/react-website-wddm/static/js/787.e1c43e5f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.866112cc.css",
-    "static/js/main.1523ec0c.js"
+    "static/css/main.845e5791.css",
+    "static/js/main.96021f00.js"
   ]
 }

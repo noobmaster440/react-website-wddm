@@ -35,15 +35,15 @@ const Navbar = () => {
                 About US
               </li>
               <li className="nav-item">
-                <Link to='/whysave' className='nav-links' onClick={closeMenu}></Link>
+                <Link to='/' className='nav-links' onClick={closeMenu}></Link>
                 Why Save Bees?
               </li>
               <li className="nav-item">
-                <Link to='/contact' className='nav-links' onClick={closeMenu}></Link>
+                <Link to='/' className='nav-links' onClick={closeMenu}></Link>
                 Contact
               </li> 
               <li>
-                <Link to='/sign-up' className="nav-links-sm" onClick={closeMenu}></Link>
+                <Link to='/' className="nav-links-sm" onClick={closeMenu}></Link>
               </li>
             </ul>
             {button && <Button buttonStyle='btn--outline'>SIGN UP</Button>}
